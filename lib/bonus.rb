@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  epic_traged[][:patriarch]
+  epic_traged[ :montague][:hero][:name] = "dead"
 
   
 
